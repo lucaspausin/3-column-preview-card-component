@@ -553,6 +553,10 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
+.m-7{
+  margin: 1.75rem;
+}
+
 .my-7{
   margin-top: 1.75rem;
   margin-bottom: 1.75rem;
@@ -733,6 +737,10 @@ video {
 }
 
 @media (min-width: 1024px){
+  .lg\:m-0{
+    margin: 0px;
+  }
+
   .lg\:my-0{
     margin-top: 0px;
     margin-bottom: 0px;
